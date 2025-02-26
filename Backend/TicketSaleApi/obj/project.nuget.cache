@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkA2ChAKkO0=",
+  "success": true,
+  "projectFilePath": "/Users/sumanbhandari/Desktop/TicketSaleApp/Backend/TicketSaleApi/TicketSaleApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/sumanbhandari/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/sumanbhandari/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
